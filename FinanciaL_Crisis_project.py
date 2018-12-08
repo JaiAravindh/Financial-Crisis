@@ -1,6 +1,6 @@
 import pandas as pd, numpy as np, matplotlib.pyplot as plt
 
-df = pd.read_csv("C:\Data\bank-additional\bank-additional-full.csv",delimiter=";")
+df = pd.read_csv("set path",delimiter=";")
 df.shape
 df.columns
 df.dtypes
